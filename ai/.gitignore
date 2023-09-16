@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+zappy_bot/zappy_ai
+output.txt
+test.txt
+zappy_server
